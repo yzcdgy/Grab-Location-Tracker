@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1029551017586",
+    "project_id": "grab-tracker-48d83",
+    "storage_bucket": "grab-tracker-48d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029551017586:android:be08d4b672d4654ae47ceb",
+        "android_client_info": {
+          "package_name": "com.example.grab_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029551017586-vpfd0qc1jsvbno9djcs0mv77krcn7er7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hdn663Mb5avj6rVFXT5gg04IG0vWSU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029551017586-vpfd0qc1jsvbno9djcs0mv77krcn7er7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029551017586-4slf0gsfcso270t0o9lvs15hofpc8hs0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grabTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
